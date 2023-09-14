@@ -113,7 +113,7 @@ body{
     }
 }
 
-@media screen and (min-width:760px){
+@media screen and (min-width:1080px){
     .component{
         width: 180vh;
         border-radius: 10px;
@@ -160,8 +160,10 @@ body{
     }
 }
 
-@media screen and (min-width:1080px){
+
+
+@media screen and (min-width:1440px){
     .component{
-        width: 117vh;
+        width: 120vh;
     }
 }
